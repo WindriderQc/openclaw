@@ -1,0 +1,3 @@
+7
+# Await the actual native CLI initialize request before inspecting discovery records.
+# Existing exact argv, request-shape, menu, and zero-provider-call assertions remain.
